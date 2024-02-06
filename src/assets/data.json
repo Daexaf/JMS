@@ -1,0 +1,125 @@
+{
+    "employees": [
+      {
+        "id":1,
+        "username": "employee1",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@gmail.com",
+        "birthdate": "1988-05-15",
+        "basicSalary": 750000.25,
+        "status": "active",
+        "group": "groupId",
+        "description": "2022-02-04T13:45:30"
+      },
+      {
+        "id":2,
+        "username": "employee2",
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "email": "jane.smith@gmail.com",
+        "birthdate": "1995-08-22",
+        "basicSalary": 450000.50,
+        "status": "active",
+        "group": "groupId",
+        "description": "2022-02-04T14:20:15"
+      },
+      {
+        "id":3,
+        "username": "employee3",
+        "firstName": "Robert",
+        "lastName": "Johnson",
+        "email": "robert.johnson@gmail.com",
+        "birthdate": "1990-03-10",
+        "basicSalary": 1200000.75,
+        "status": "inactive",
+        "group": "groupId",
+        "description": "2022-02-04T15:10:45"
+      },
+      {
+        "id":4,
+        "username": "employee4",
+        "firstName": "Emily",
+        "lastName": "Davis",
+        "email": "emily.davis@gmail.com",
+        "birthdate": "1987-11-28",
+        "basicSalary": 800000.90,
+        "status": "active",
+        "group": "groupId",
+        "description": "2022-02-04T16:55:00"
+      },
+      {
+        "id":5,
+        "username": "employee5",
+        "firstName": "Michael",
+        "lastName": "Clark",
+        "email": "michael.clark@gmail.com",
+        "birthdate": "1993-06-05",
+        "basicSalary": 1500000.30,
+        "status": "active",
+        "group": "groupId",
+        "description": "2022-02-04T17:30:20"
+      },
+      {
+        "id":6,
+        "username": "employee6",
+        "firstName": "Sophia",
+        "lastName": "Brown",
+        "email": "sophia.brown@gmail.com",
+        "birthdate": "1989-01-18",
+        "basicSalary": 600000.70,
+        "status": "inactive",
+        "group": "groupId",
+        "description": "2022-02-04T18:15:40"
+      },
+      {
+        "id":7,
+        "username": "employee7",
+        "firstName": "William",
+        "lastName": "Miller",
+        "email": "william.miller@gmail.com",
+        "birthdate": "1998-09-12",
+        "basicSalary": 900000.40,
+        "status": "active",
+        "group": "groupId",
+        "description": "2022-02-04T19:40:05"
+      },
+      {
+        "id":8,
+        "username": "employee8",
+        "firstName": "Olivia",
+        "lastName": "Wilson",
+        "email": "olivia.wilson@gmail.com",
+        "birthdate": "1985-04-27",
+        "basicSalary": 550000.60,
+        "status": "active",
+        "group": "groupId",
+        "description": "2022-02-04T20:25:30"
+      },
+      {
+        "id":9,
+        "username": "employee9",
+        "firstName": "David",
+        "lastName": "Anderson",
+        "email": "david.anderson@gmail.com",
+        "birthdate": "1996-02-09",
+        "basicSalary": 1700000.85,
+        "status": "inactive",
+        "group": "groupId",
+        "description": "2022-02-04T21:10:55"
+      },
+      {
+        "id":10,
+        "username": "employee10",
+        "firstName": "Ava",
+        "lastName": "Johnson",
+        "email": "ava.johnson@gmail.com",
+        "birthdate": "1991-07-14",
+        "basicSalary": 1300000.95,
+        "status": "active",
+        "group": "groupId",
+        "description": "2022-02-04T22:45:20"
+      }
+    ]
+  }
+  
